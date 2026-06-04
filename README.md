@@ -1,49 +1,39 @@
-# hey, I'm Hailey 👋
+# Hi y'all, Hailey here 👋
 
-I'm a **builder who happens to be a PM**. I started in CS and software engineering, moved to product — not to stop building, but to have a bigger hand in shaping the tools developers reach for every day.
-
-Currently on GitHub's **Builders** team, working on AI-powered developer tools. I write and ship code daily while driving product direction.
+I'm a **builder who happens to be a PM**. I build developer tools that help people collaborate with each other and with AI to ship faster and unlock what they didn't even know was possible.
 
 ---
 
-## what I believe
+## What I believe
 
-- **Ship it** — strategy without execution is just a slide deck
-- **Developer-first** — every feature should make a developer's life measurably easier
-- **Stay hands-on** — you can't build great dev tools if you don't use them yourself
-- **Simplicity scales** — complexity doesn't
-- **Full stack PM** — own the full journey from strategy through shipping code
+- 🚀 **Ship fast, learn faster** — strategy without execution is just a slide deck
+- 🔧 **Stay hands-on** — you can't build great dev tools if you don't use them yourself
+- 💡 **AI doesn't replace builders** — it removes everything between them and their ideas
 
 ---
 
-## what I'm working on
+## What I've done
 
-- 🎯 **AI Developer Tools** — building the next generation of AI-powered coding experiences at GitHub
-- 🛠️ **Developer Experience** — making it faster and simpler for developers to build, deploy, and ship
-- 🔨 **Building in the open** — prototyping, shipping side projects, and learning by doing
+[**Azure Developer CLI (azd)**](https://github.com/Azure/azure-dev) — A CLI that takes you from `azd init` to a deployed app in minutes. We built it because provisioning cloud infrastructure shouldn't require a PhD in YAML.
 
----
+[Azure Templates](https://azure.github.io/awesome-azd/templates) / [Azure AI Templates](https://azure.github.io/ai-app-templates/) — Production-ready templates with infrastructure, CI/CD, and monitoring — all deployable with a single command.
 
-## what I've worked on
+[Microsoft Azure Developers Community](https://www.youtube.com/@AzureDevelopers) — Co-founded the Azure Developers community, launching across YouTube, Twitch, Twitter, TikTok, and Discord to host weekly livestreams, community events, and create a real feedback loop between developers and the teams building for them.
 
-**At GitHub** — Senior Product Manager on the Builders team, shaping the future of AI-enabled developer tools. Bridging product strategy and hands-on engineering.
-
-**At Microsoft** — Drove developer experience across [Azure Developer CLI](https://github.com/Azure/azure-dev), VS Code extensions, AI app templates, and more. Co-founded the Azure Developer Community — weekly livestreams, YouTube, Twitch — helping developers learn Azure tooling and connect with each other.
-
-**Before that** — Built the pro developer story for Power Platform, bridging code-first and low-code. Started my career in chaos engineering at Fidelity and web development for nonprofits.
+[Power Platform for Pro Dev](https://github.com/microsoft/powerplatform) — Bridging code-first and low-code so pro devs could extend the platform through custom connectors, components, and integrations, getting 80% out of the box with the power to perfect the last 20%.
 
 ---
 
-## a bit about me
+## The fun stuff
 
 - 🎓 Computer Science, UNC Chapel Hill — go Heels 🐏
-- 📍 Austin, TX
-- 💡 *AI doesn't replace builders — it removes everything between them and their ideas.*
+- 📍 Austin, TX — relocated for the sun, food, and music! If it's below 78 F, I'm too cold
+- 🛠️ I don't just build software, I build things with my hands too. From walls to flooring, cabinetry, drywall, and everything in between, I love stepping away from the screens to fix or create something
 
 ---
 
-## say hi 👋
+## Say hi 👋
 
 - 💼 [LinkedIn](https://linkedin.com/in/haileyvictory)
 - 🌐 [haileyvictory.dev](https://haileyvictory.dev)
-- 🐙 [GitHub](https://github.com/haileyvictory)
+- 🐙 [GitHub](https://github.com/haileyvictory)
